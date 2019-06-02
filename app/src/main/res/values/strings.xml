@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Activity-1</string>
+    <string name="githubInfo">Name: Bryan Mort\nGithub Username: bjm31</string>
 </resources>
